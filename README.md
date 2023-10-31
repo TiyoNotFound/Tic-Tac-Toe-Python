@@ -3,7 +3,7 @@
 
 A Python implementation of the classic Tic Tac Toe game with AI opponents of varying levels.
 
-![Tic Tac Toe](tic_tac_toe.png)
+![Tic Tac Toe](Screenshot_2023-10-31-20-34-43-94_c759c44d10a956b96f85cc66750ff86e.jpg)
 
 ## Table of Contents
 - [Introduction](#introduction)
