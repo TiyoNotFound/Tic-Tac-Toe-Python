@@ -35,12 +35,12 @@ This project is a command-line-based implementation of the popular Tic Tac Toe g
 
 2. Navigate to the project directory:
    ```sh
-   cd TicTacToe-AI
+   cd Tic-Tac-Toe-Python
    ```
 
 3. Run the game:
    ```sh
-   python tic_tac_toe.py
+   python tictactoe.py
    ```
 
 ## Usage
