@@ -30,7 +30,7 @@ This project is a command-line-based implementation of the popular Tic Tac Toe g
 
 1. Clone the repository to your local machine using Git:
    ```sh
-   git clone https://github.com/yourusername/TicTacToe-AI.git
+   git clone https://github.com/TiyoNotFound/Tic-Tac-Toe-Python.git
    ```
 
 2. Navigate to the project directory:
